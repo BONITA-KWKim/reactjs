@@ -1,0 +1,8 @@
+# apple
+*.DS_Store
+
+# build
+bundle.*
+node_modules/*
+js/build/*
+package-lock.json
